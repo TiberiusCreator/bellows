@@ -131,4 +131,4 @@ If you find a bug (there might be bugs it's in beta for a reason), open an issue
 
 ---
 
-**If Bellows is useful to you, a star helps other people find it.**
+**If Bellows is useful to you, a star helps other people find it! :)**
