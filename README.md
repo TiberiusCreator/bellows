@@ -43,7 +43,7 @@ It's also built for people who don't want to fight a command palette. You don't 
 ## Quick Start
 
 **Option 1 — Just open it**
-Download `index.html` and open it in Chrome or Edge. That's the whole install.
+Download `bellows.html` and open it in Chrome or Edge. That's the whole install.
 
 **Option 2 — Try it live**
 [**bellows-link-here**](#) *(add your GitHub Pages URL here once it's live)*
@@ -52,7 +52,7 @@ Download `index.html` and open it in Chrome or Edge. That's the whole install.
 ```bash
 git clone https://github.com/yourusername/bellows.git
 cd bellows
-open index.html
+open bellows.html
 ```
 
 First time you turn the AI on, it downloads the model (a few hundred MB to a few GB depending which one you pick) and caches it in your browser — after that, it loads instantly. Model caching is per-browser, so switching browsers (or using file:// instead of a real server in Safari) means it downloads again.
